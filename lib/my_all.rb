@@ -1,4 +1,5 @@
 require 'pry'
+collection = [1, 2, 3]
 
 def my_all?(collection)
   i = 0
